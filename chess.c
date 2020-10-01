@@ -1,4 +1,4 @@
-chess
+//chess
 /*
 Language: C\C++
 Category: Games
